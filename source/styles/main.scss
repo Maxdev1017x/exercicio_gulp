@@ -1,0 +1,19 @@
+$primeiraCor:#171717;
+$segundaCor:#2f4f4f;
+$terceiraCor:#fff;
+
+
+body {
+    background-color: $primeiraCor;
+    padding-top: 100px;
+}
+
+.container {
+    background-color: $segundaCor;
+    color: $terceiraCor;
+}
+
+.container h2{
+    text-align: center;
+    padding-top: 10px;
+}
